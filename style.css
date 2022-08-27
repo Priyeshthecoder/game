@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+
+}
+
+#welcome{
+    background: linear-gradient(#00ffff 0%, #00ff33 50%, #95ff00 100%);
+    z-index: 9999;
+    padding-top: 120px;
+    
+}
+
+#img{
+    width: 300px;
+    border-radius: 10000px;
+    
+}
+
+h2{
+    font-family: 'Cormorant SC';
+    font-size: 30px; 
+    
+}
+
+#p1{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+#p2{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.menu{
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+cursor: pointer;
+color: red;
+
+}
+
+.tab{
+    display: inline;
+    padding-left: 160px;
+
+}
+
+#bio{
+padding-top: 50px;
+font-family: 'Edu VIC WA NT Beginner';
+font-size: 30px;
+}
+
+#WRITINGS a {
+color: red !important;
+
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+#contact h3 {
+display: inline;
+
+}
+
+.tab:hover a {
+    font-size: 20px;
+    color:red !important;
+}
